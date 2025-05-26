@@ -1,0 +1,1 @@
+ReWritten the File created by fs module . SuccessfullyThis is the data that is appended to the file

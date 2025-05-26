@@ -1,0 +1,15 @@
+{
+  "name": "project_01",
+  "version": "1.0.0",
+  "description": "1st_Node_JS_Project_REST_API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Pinak_Moharir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
